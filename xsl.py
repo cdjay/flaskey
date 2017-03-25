@@ -36,7 +36,7 @@ Hand_Hulist = [] # 可胡牌型的数量和位置
 Hand_Ting = 0 # 向听数
 
 def seekaaa(aaa,pailist):# 判断有无aaa形态,
-    print('当前检查的是:',aaa)
+    print('DD为%s:'%(aaa))
 
 
 def abc():# 判断有无abc形态
